@@ -1,2 +1,2 @@
-# Patika-Academy-Css-Homweork-1
+# Patika-Academy-Css-Homeweork-1
 Css for beginners homework 1

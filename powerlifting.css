@@ -1,0 +1,92 @@
+
+
+/* 3 Sayfayada istediğim özellikler verebilmek için birsürü class açtım ve onları istediğim gibi etiketlere ekledim */
+
+
+
+.fs-big {
+
+    font-size: 30px;
+}
+
+.fs-center {
+    text-align: center;
+}
+
+.fs-baslık {
+
+    font-size: 60px;
+
+}
+
+.fs-medium {
+
+    font-size: 20px;
+}
+
+.bs-color {
+
+background-color: #FBF9F1;
+}
+
+.img-centered {
+
+margin-left: 650px;
+
+}
+
+.img-opaklık {
+
+    opacity: 0.8,5;
+}
+/* Resimlerin internet sayfasında aşırı mat ve patlak durmaması için opacity etiketiyle biraz şefaflaştırdım */
+
+
+
+
+.sq-color {
+
+    background-color: #FBF9F1;
+    }
+
+.fs.margin {
+    left: 50%;
+}
+
+
+.ortalama {
+
+    text-align: center;
+}
+
+/* Fontu ise Google fontsdan aldım */
+
+.fs-font {
+        font-family: "Kanit", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+      }
+
+
+.fs-margin {
+    margin: 65px; 
+}
+
+/* Yazıların ekranın köşesinde kalması profesyönel durmuyordu bu yüzden bütün sayfaya margin etiketi ile boşluk bıraktım */
+
+/* ColorHuntdan bulduğum hoşuma giden bir renk ekledim */
+.fs-ust {
+        background-image: linear-gradient(#7e83df, #66B1F2, #F2C49B);
+      
+    
+}  
+
+.fs-kalın {
+font-weight: 600;
+
+}
+
+.img-ozel {
+
+    margin-left: 850px;
+}
